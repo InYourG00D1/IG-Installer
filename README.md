@@ -1,9 +1,3 @@
-# IG-Installer
-Instagram Installer 
-$ apt update && apt upgrade 
-$ apt install git
-$ git clone https://github.com/InYourG00D1/IG-Installer
-$ gem install lolcat 
-$ ls
-$ cd IG-Installer
-$ sh IG-tool.sh
+# ALERT!!
+support me by following and stars github.
+<p>Instagram : <td><a target="_blank" href="https://www.instagram.com/ragil_iygd77">Click Me</a></td></p>
